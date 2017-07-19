@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7597903-cb4b-4248-95bb-2871c52bfd05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-    </list>
+    <list default="true" id="c7597903-cb4b-4248-95bb-2871c52bfd05" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/weaponlin/Decorator/Casquette.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -28,8 +26,8 @@
       <file leaf-file-name="DataEncryptDecorator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/weaponlin/Decorator/exercise/DataEncryptDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,7 +58,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
+              <folding>
+                <element signature="e#169#170#0" expanded="false" />
+                <element signature="e#196#197#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +71,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#187#188#0" expanded="false" />
+                <element signature="e#223#224#0" expanded="false" />
+                <element signature="e#268#269#0" expanded="false" />
+                <element signature="e#348#349#0" expanded="false" />
+                <element signature="e#390#391#0" expanded="false" />
+                <element signature="e#448#449#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +88,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#140#141#0" expanded="false" />
+                <element signature="e#181#182#0" expanded="false" />
+                <element signature="e#223#224#0" expanded="false" />
+                <element signature="e#247#248#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -590,12 +603,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499675538730</updated>
       <workItem from="1499675540024" duration="216000" />
-      <workItem from="1500444813070" duration="85000" />
+      <workItem from="1500444813070" duration="2924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301000" />
+    <option name="totallyTimeSpent" value="3140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-6" width="1855" height="1086" extended-state="6" />
@@ -671,7 +684,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#169#170#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -679,7 +695,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -687,7 +710,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#140#141#0" expanded="false" />
+            <element signature="e#181#182#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#247#248#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -753,7 +781,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#169#170#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -761,7 +792,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -769,7 +807,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#140#141#0" expanded="false" />
+            <element signature="e#181#182#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#247#248#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -800,15 +843,15 @@
     <entry file="file://$PROJECT_DIR$/src/com/weaponlin/Decorator/Casquette.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/weaponlin/Decorator/exercise/DataEncryptDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
